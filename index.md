@@ -16,4 +16,5 @@ excerpt: "Robotics M.S. @ JHU (LCSR) · Surgical Computer Vision · Multimodal �
 - **DT-SPR**: Digital Twin-based Surgical Phase Recognition — multimodal fusion & corrupted-data benchmark.
 - **SurgiPose**: Monocular pose estimation for imitation learning — improved init loss (~60%↓) and video-based K estimation.
 
-[Publications](/publications/) · [Projects](/projects/) · [CV](/assets/Wenzheng_Cheng_Resume.pdf)
+[Publications](/publications/) · [Projects](/projects/) · [CV](/assets/Wenzheng_Cheng_Resume.pdf) · [About](/about/)
+

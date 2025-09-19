@@ -3,8 +3,15 @@ permalink: /publications/
 title: "Publications"
 ---
 
-- **Ding, H.**, **Cheng, W.**, *et al.* **Towards Robust Algorithms for Surgical Phase Recognition via Digital Twin Representation**. *arXiv:2410.20026*, 2024.  
-- **Zhang, H.**, **Cheng, W.** **DeepHEN: Quantitative Prediction Essential lncRNA Genes...** *arXiv:2309.10008*, 2023.  
-- **Cheng, W.** **Application and Analysis of Residual Blocks in Galaxy Classification**. *ACE*, 2023.  
+- **Towards Robust Algorithms for Surgical Phase Recognition via Digital Twin Representation (DT-SPR)**  
+  arXiv:2410.20026 — <https://arxiv.org/abs/2410.20026>
 
-For a full list, see my [CV](/assets/Wenzheng_Cheng_Resume.pdf).
+- **DeepHEN: Quantitative Prediction Essential lncRNA Genes and Rethinking Essentialities of lncRNA Genes**  
+  arXiv:2309.10008 — <https://arxiv.org/abs/2309.10008>
+
+- **Application and Analysis of Residual Blocks in Galaxy Classification**  
+  *Advances in Computer and Electronics (ACE),* Vol. 21: 143–152.  
+  DOI: 10.54254/2755-2721/21/20231135 — <https://www.ewadirect.com/proceedings/ace/article/view/4780>
+
+
+For a full list, see my [CV](/assets/Wenzheng Cheng_Resume.pdf).
