@@ -43,3 +43,12 @@ My research focuses on **surgical computer vision**, **multimodal learning**, an
   <a href="https://arxiv.org/abs/2309.10008" target="_blank">arXiv:2309.10008</a>
 - **Application and Analysis of Residual Blocks in Galaxy Classification** —  
   <a href="https://www.ewadirect.com/proceedings/ace/article/view/4780" target="_blank">ACE, Vol. 21: 143–152</a>
+
+
+### Links
+- <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=fGDg-S4AAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>  
+- <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/wenzheng-cheng-3a827b327/?locale=en_US" target="_blank">LinkedIn</a>  
+- <i class="fas fa-envelope"></i> <a href="mailto:wcheng31@jh.edu">wcheng31@jh.edu</a>  
+- <i class="fab fa-weixin"></i> <a href="/assets/wechat_qr.jpg" target="_blank">WeChat (QR)</a>  
+- <i class="fas fa-file-pdf"></i> <a href="/assets/Wenzheng Cheng_Resume.pdf" target="_blank">CV (PDF)</a>
+

@@ -38,9 +38,8 @@ defaults:
     values:
       author_profile: true
 
-# Author card (left column)
 author:
-  name: "WENZHENG CHENG"          # 大写展示名字
+  name: "WENZHENG CHENG"
   avatar: "/assets/avatar.jpg"
   bio: "M.S. Robotics @ JHU (LCSR). Surgical CV, Multimodal Learning, Digital Twins."
   location: "MD, USA"
@@ -50,19 +49,20 @@ author:
       url: "mailto:wcheng31@jh.edu"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=fGDg-S4AAAAJ"
+      url: "https://scholar.google.com/citations?user=fGDg-S4AAAAJ&hl=zh-CN"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/WilsonCheng561"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/wenzheng-cheng-3a827b327/?locale=en_US"
-    - label: "WeChat (QR)"
-      icon: "fas fa-comments"
+    - label: "WeChat"
+      icon: "fab fa-weixin"
       url: "/assets/wechat_qr.jpg"
     - label: "CV (PDF)"
       icon: "fas fa-file-pdf"
       url: "/assets/Wenzheng Cheng_Resume.pdf"
+
 
 # Feed & sitemap
 feed:
