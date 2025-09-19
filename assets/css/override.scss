@@ -1,7 +1,30 @@
-/* Override avatar style */
+/* --- Avatar: square, larger, no crop --- */
+.author__avatar {
+  /* 设定一个更大的方形容器（可按需调成 220/260） */
+  width: 240px !important;
+  height: 240px !important;
+
+  /* 明确取消圆角/遮罩 */
+  border-radius: 0 !important;
+  overflow: visible !important;   /* 不要裁切 */
+
+  /* 可选：让容器背景是白色，避免“信箱边”太突兀 */
+  background: transparent;
+  padding: 0 !important;
+}
+
 .author__avatar img {
-  border-radius: 50% !important;   /* 圆形 */
-  object-fit: cover !important;    /* 保证填充，但不压扁 */
-  width: 200px;                    /* 你可以调节大小 */
-  height: 200px;                   /* 和 width 相同，保证正圆 */
+  /* 填满容器但不裁切，保持原图比例 */
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+
+  /* 取消任何圆角/裁切 */
+  border-radius: 0 !important;
+  display: block;
+}
+
+/* 让左侧栏放得下更大的头像（有些布局会限制宽度） */
+.sidebar.sticky {
+  max-width: 280px !important;
 }
