@@ -1,28 +1,24 @@
-<!-- Academicons -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css">
-
-<!-- Avatar overrides: square, larger, no crop -->
 <style>
-/* 放大左侧栏，避免头像被挤 */
-.sidebar.sticky { max-width: 300px !important; }
+/* 左侧栏放宽一点 */
+.sidebar.sticky { max-width: 320px !important; }
 
-/* 头像容器：方形，不裁切 */
+/* 容器不固定高度，只定宽度；不裁剪 */
 .author__avatar {
-  width: 240px !important;   /* 想更大改这里 260/280 */
-  height: 240px !important;
+  width: 260px !important;    /* 想更大就调这里 */
+  height: auto !important;
   border-radius: 0 !important;
-  overflow: visible !important; /* 不要裁剪 */
+  overflow: visible !important;
   padding: 0 !important;
   background: transparent !important;
 }
 
-/* 头像图片：保持原始比例，完整显示到方形容器里 */
+/* 图片按原比例缩放铺满宽度（无留白、无裁剪） */
 .author__avatar img,
 .author__avatar .u-photo {
   width: 100% !important;
-  height: 100% !important;
-  object-fit: contain !important;  /* 不拉伸不裁切，必要时留白 */
-  border-radius: 0 !important;     /* 取消圆角 */
+  height: auto !important;
+  object-fit: contain !important;   /* 高度自适应，已不会出现上下留白 */
+  border-radius: 0 !important;      /* 若想圆角可改 12px 或 50% */
   display: block !important;
 }
 </style>
