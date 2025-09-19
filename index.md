@@ -1,20 +1,45 @@
 ---
-layout: home
+layout: single
+title: "WENZHENG CHENG"
 author_profile: true
-title: "Wenzheng Cheng"
-excerpt: "Robotics M.S. @ JHU (LCSR) · Surgical Computer Vision · Multimodal · Digital Twin"
+classes: wide
 ---
 
-> I’m a graduate researcher at Johns Hopkins University (LCSR) advised by **Mathias Unberath** and **Axel Krieger**.  
-> My research focuses on **surgical computer vision**, **multimodal learning**, and **digital twins**.
+<div style="margin-top:-8px;"></div>
+
+### About
+Hi! I’m an M.S. student in **Robotics** at **Johns Hopkins University (LCSR)**, advised by **Mathias Unberath** and **Axel Krieger**.  
+My research focuses on **surgical computer vision**, **multimodal learning**, and **digital twins**, with ongoing projects on DT-based phase recognition and monocular pose estimation for imitation learning.
+
+---
+
+### Education
+- <i class="fas fa-graduation-cap"></i> **Johns Hopkins University (JHU)** — M.S. in Robotics  
+  <i class="fas fa-map-marker-alt"></i> *MD, USA · Sep 2024 – Present*
+- <i class="fas fa-graduation-cap"></i> **Tianjin University (TJU)** — B.S. in Software Engineering  
+  <i class="fas fa-map-marker-alt"></i> *Tianjin, China · Sep 2020 – Jun 2024*
+
+---
 
 ### News
 - 2025 — DT-SPR accepted as **oral** at DT4H @ MICCAI 2025.
-- 2025 — Built OOD benchmark with 80 YouTube surgical videos for robustness eval.
+- 2025 — Planning to submit follow-up work to **IPCAI 2026** (end of October 2025).  
+  👉 Stay tuned: <a href="https://github.com/WilsonCheng561/IPCAI2026" target="_blank">IPCAI2026 GitHub</a>
+
+---
 
 ### Selected Projects
 - **DT-SPR**: Digital Twin-based Surgical Phase Recognition — multimodal fusion & corrupted-data benchmark.
 - **SurgiPose**: Monocular pose estimation for imitation learning — improved init loss (~60%↓) and video-based K estimation.
 
-[Publications](/publications/) · [Projects](/projects/) · [CV](/assets/Wenzheng_Cheng_Resume.pdf) · [About](/about/)
+[Publications](/publications/) · [CV](/assets/Wenzheng Cheng_Resume.pdf) · [About](/about/)
 
+---
+
+### Publications (quick links)
+- **Towards Robust Algorithms for Surgical Phase Recognition via Digital Twin Representation (DT-SPR)** —  
+  <a href="https://arxiv.org/abs/2410.20026" target="_blank">arXiv:2410.20026</a>
+- **DeepHEN: Quantitative Prediction Essential lncRNA Genes and Rethinking Essentialities of lncRNA Genes** —  
+  <a href="https://arxiv.org/abs/2309.10008" target="_blank">arXiv:2309.10008</a>
+- **Application and Analysis of Residual Blocks in Galaxy Classification** —  
+  <a href="https://www.ewadirect.com/proceedings/ace/article/view/4780" target="_blank">ACE, Vol. 21: 143–152</a>

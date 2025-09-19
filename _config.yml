@@ -1,0 +1,60 @@
+title: Wenzheng Cheng
+name: Wenzheng Cheng
+description: "Surgical Computer Vision · Multimodal Learning · Digital Twins · Robot Learning"
+url: "https://wilsoncheng561.github.io"
+baseurl: ""  # 个人站点留空
+
+# 使用 Minimal Mistakes 远程主题
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+# 导航
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
+  publications:
+    output: true
+
+include: ["_pages"]
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# 个人信息（从你的简历提取）
+author:
+  name: "Wenzheng Cheng"
+  avatar: "/assets/avatar.jpg"     # 放一张头像至 assets 目录
+  bio: "M.S. Robotics @ JHU (LCSR). Surgical CV, Multimodal, Digital Twin, Robot Learning."
+  location: "MD, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:wcheng31@jh.edu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/WilsonCheng561"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"   # Academicons
+      url: "https://scholar.google.com/scholar?q=Wenzheng+Cheng"
+    - label: "CV (PDF)"
+      icon: "fas fa-file-pdf"
+      url: "/assets/Wenzheng_Cheng_Resume.pdf"
+
+# 导航菜单
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# 开 RSS/Sitemap/SEO
+feed:
+  path: feed.xml
+
+# 如果后续要自定义谷歌统计、favicon 等，这里再加
